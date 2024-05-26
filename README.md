@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Liz
-- 👀 I’m interested in Backend Eng. and Graphics
-- 🌱 I’m currently learning AI tech and cloud computing                                                          
+- 👀 I’m interested in Backend Eng.and Cloud Computing
+- 🌱 I’m currently learning AI tech and AWS Cloud                                                        
 - 💞️ I’m looking to collaborate on ...learning more about AI and the coming changes
-- 📫 How to reach me ...(wesite incoming)
 - ⚡ Fun fact: ...I dont believe in specializtion,yet
 
 <!---
