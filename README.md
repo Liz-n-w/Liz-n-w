@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Liz
-- 🌱 I’m currently learning AI and Cloud                                                     
+- 👋 Hi,
+- 🌱 I’m currently learning AI and sharpening my data skills                                                   
 - 💞️ I’m looking to collaborate on ...learning more about AI and the coming changes
 - ⚡ Fun fact ...I dont believe in specializtion,yet
 
