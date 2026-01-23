@@ -1,6 +1,6 @@
 👋 Hi,
 - 🌱 I’m currently learning Cloud and sharpening my data skills                                                   
-- 💞️ I’m looking to collaborate on ...learning more about AI, Cloud and the coming changes
+- 💞️ I’m looking to collaborate and learn more about AI, Cloud and the coming changes
 
 
 <!---
